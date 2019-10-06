@@ -1,6 +1,6 @@
-# service
+# Example
 
-> Yandex.Taxi payout service
+> Get the fuck out
 
 ## Build Setup
 
